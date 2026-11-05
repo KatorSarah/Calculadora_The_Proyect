@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Calculadora iOS</string>
+    <string name="calculator_title">Calculadora</string>
+    <string name="history_title">Historial</string>
+    <string name="back">Volver</string>
+    <string name="history_empty">Todavía no hay operaciones registradas.</string>
+    <string name="history_result">Resultado: %1$s</string>
+    <string name="error_division_by_zero">No se puede dividir entre cero.</string>
+    <string name="error_invalid_input">Entrada no válida.</string>
+    <string name="button_clear">AC</string>
+    <string name="button_sign">+/-</string>
+    <string name="button_percent">%</string>
+    <string name="button_divide">÷</string>
+    <string name="button_multiply">×</string>
+    <string name="button_minus">−</string>
+    <string name="button_plus">+</string>
+    <string name="button_equal">=</string>
+    <string name="button_decimal">.</string>
+    <string name="button_history">Historial</string>
+    <string name="history_expression_pattern">%1$s = %2$s</string>
+    <string name="display_default">0</string>
+</resources>
